@@ -8,8 +8,7 @@ Reference
 If you use the MeQSum corpus, please cite our paper:
 "On the Summarization of Consumer Health Questions". Asma Ben Abacha and Dina Demner-Fushman. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, ACL 2019. 
 
-@Inproceedings{MeQSum,
-
+@Inproceedings{MeQSum,          
 author = {Asma {Ben Abacha} and Dina Demner-Fushman},          
 title = {On the Summarization of Consumer Health Questions},              
 booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, ACL 2019, Florence, Italy, July 28th - August 2},                  
@@ -18,4 +17,4 @@ abstract = {Question understanding is one of the main challenges in question ans
         
  Contact Information
  -------------------
-Asma Ben Abacha: asma.benabacha@nih.gov   https://sites.google.com/site/asmabenabacha/
+Asma Ben Abacha: asma.benabacha@nih.gov       https://sites.google.com/site/asmabenabacha/
