@@ -1,5 +1,5 @@
 # MeQSum
-Dataset for medical question summarization introduced in the ACL 2019 paper "On the Summarization of Consumer Health Questions" (ACL 2019)
+Dataset for medical question summarization introduced in the ACL 2019 paper "On the Summarization of Consumer Health Questions". 
 
 
 Reference: 
