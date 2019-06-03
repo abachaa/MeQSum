@@ -2,7 +2,7 @@
 Dataset for medical question summarization introduced in the ACL 2019 paper "On the Summarization of Consumer Health Questions". 
 
 
-Reference: 
+Reference
 -------------------
 
 If you use the MeQSum corpus, please cite our paper:
