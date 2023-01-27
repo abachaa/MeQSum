@@ -16,4 +16,4 @@ abstract = {Question understanding is one of the main challenges in question ans
         
  Contact Information
  -------------------
-Asma Ben Abacha: asma.benabacha@nih.gov       https://sites.google.com/site/asmabenabacha/
+Asma Ben Abacha: asma.benabacha AT gmail.com      https://sites.google.com/site/asmabenabacha/
